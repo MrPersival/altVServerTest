@@ -1,0 +1,20 @@
+[19:26:56] alt:V Server 6.0-rc17 (rc)
+[19:26:56] Starting alt:V Server on 0.0.0.0:7788
+[19:26:56] Loading resource exampel
+[19:26:56] Loading resource chat
+[19:26:56] Loaded resource chat
+[19:26:57] Loaded resource exampel
+[19:26:57] Required server permissions:
+[19:26:57] Optional server permissions:
+[19:26:57] Starting HTTP server on 0.0.0.0:7788
+[19:26:57] Main thread started (ThreadId: 4136)
+[19:26:57] Colshape thread started (ThreadId: 4748)
+[19:26:57] EntityStreamer thread started (ThreadId: 15892)
+[19:26:57] Network thread started (ThreadId: 2608)
+[19:26:57] Console thread started (ThreadId: 4148)
+[19:26:57] Server started
+[19:28:05] Stopping resource exampel
+[19:28:05] Stopped resource exampel
+[19:28:05] Stopping resource chat
+[19:28:05] Stopped resource chat
+[19:28:05] Server shutdown
